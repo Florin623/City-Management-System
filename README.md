@@ -12,16 +12,17 @@ People:
 - Coordinator (mayors, house owners, block administrators)
 - Employee (doctors and cops)
 - Citizen (city hall employees, hospital patients, inmates, inhabitants of the houses and blocks)
-
-
+<br>
+<br>
+<br>
 Capital: CityHall >=3, Hospital >= 2, PoliceStation >= 3, House >= 8, Block >= 4
 
 City: CityHall >=2, Hospital >= 1, PoliceStation >= 2, House >= 4, Block >= 1
 
 Village: Anything else except the aforementioned conditions
-
-
-
+<br>
+<br>
+<br>
 The output data has the following format:
 
 Type:
