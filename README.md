@@ -15,7 +15,9 @@ People:
 <br>
 <br>
 Capital: CityHall >=3, Hospital >= 2, PoliceStation >= 3, House >= 8, Block >= 4
-
+<br>
+<br>
+<br>
 City: CityHall >=2, Hospital >= 1, PoliceStation >= 2, House >= 4, Block >= 1
 
 Village: Anything else except the aforementioned conditions
